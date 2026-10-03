@@ -13,13 +13,13 @@ Update the balance of a particular account.
 Delete an account based on a suitable condition.
 Display the final account records.
 
-CREATE DATABASE and use 
+//CREATE DATABASE and use 
 
 CREATE DATABASE bank;
 use bank;
 
 
-create TABLES
+//create TABLES
 
 
 CREATE TABLE Customer (
@@ -40,7 +40,7 @@ CREATE TABLE Account (
 );
 
 
-INSERT INTO TABLE 
+//INSERT INTO TABLE 
 
 INSERT INTO Customer VALUES
 (1, 'Rahul Sharma', '9876543210', 'rahul@gmail.com', 'Ambala', 25),
